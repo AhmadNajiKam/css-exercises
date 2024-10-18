@@ -1,0 +1,12 @@
+.clickme{
+    background-color: rgb(0,0,0);
+    color:white;
+}
+.noclick{
+    background-color: yellow;
+}
+.clickme,.noclick{
+
+    font-family: 'Times New Roman', Helvetica, sans-serif;
+    font-size: 28px;
+}
